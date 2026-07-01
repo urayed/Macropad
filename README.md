@@ -1,3 +1,4 @@
+[BOM.csv](https://github.com/user-attachments/files/29574119/BOM.csv)
 # Macropad
 This is Macropad version 1.
 
@@ -25,3 +26,21 @@ The PCB is made fully in KiCad.
 The schematic:
 <img width="923" height="623" alt="Screenshot 2026-06-24 at 4 11 31 PM" src="https://github.com/user-attachments/assets/1c1a7cf8-3c5e-422b-bd3f-8b5e3fea51c7" />
 
+# BOM
+Seeed XIAO RP2040 x1 
+
+1N4148 x9 
+
+MX-Switches x9 
+
+EC11 x1 
+
+OLED x1 
+
+DSA Keycaps x9 
+
+SK6812 x9 
+
+M3x16mm x6 
+
+M3x5mx4mm Headset x0-6 
